@@ -1,0 +1,44 @@
+.metadata/
+config-server-repo/
+
+### books ###
+books/HELP.md
+books/target/
+!books/.mvn/wrapper/maven-wrapper.jar
+!books/**/src/main/**/target/
+!books/**/src/test/**/target/
+
+### clientui ###
+clientui/HELP.md
+clientui/target/
+!clientui/.mvn/wrapper/maven-wrapper.jar
+!clientui/**/src/main/**/target/
+!clientui/**/src/test/**/target/
+
+### config-server ###
+config-server/HELP.md
+config-server/target/
+!config-server/.mvn/wrapper/maven-wrapper.jar
+!config-server/**/src/main/**/target/
+!config-server/**/src/test/**/target/
+
+### discovery-server ###
+discovery-server/HELP.md
+discovery-server/target/
+!discovery-server/.mvn/wrapper/maven-wrapper.jar
+!discovery-server/**/src/main/**/target/
+!discovery-server/**/src/test/**/target/
+
+### spring-admin ###
+spring-admin/HELP.md
+spring-admin/target/
+!spring-admin/.mvn/wrapper/maven-wrapper.jar
+!spring-admin/**/src/main/**/target/
+!spring-admin/**/src/test/**/target/
+
+### zuul-server ###
+zuul-server/HELP.md
+zuul-server/target/
+!zuul-server/.mvn/wrapper/maven-wrapper.jar
+!zuul-server/**/src/main/**/target/
+!zuul-server/**/src/test/**/target/
